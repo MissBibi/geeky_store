@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:codproduto;datatype:int,name:nomep;datatype:string,name:precou;datatype:real,name:stock;datatype:int,name:descricao;datatype:string,name:imagem;datatype:string,name:status;datatype:string,name:tipo_codtipo;datatype:int,name:marca_codmarca;datatype:int" />
+	<infoitem key="UD_tipo" value="name:codtipo;datatype:int,name:tipo;datatype:string" />
+	<infoitem key="UD_marca" value="name:codmarca;datatype:int,name:marca;datatype:string" />
+</info>

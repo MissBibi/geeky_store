@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_alterar" value="name:nome;datatype:string,name:email;datatype:string,name:morada;datatype:string,name:codpostal;datatype:int,name:cospostal2;datatype:int,name:telefone;datatype:int,name:sexo;datatype:string,name:datanasc;datatype:datetime,name:localidade;datatype:string,name:password;datatype:string,name:nif;datatype:int" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_dc" value="name:codproduto;datatype:int,name:nomep;datatype:string,name:precou;datatype:real,name:stock;datatype:int,name:descricao;datatype:string,name:imagem;datatype:string,name:status;datatype:string,name:tipo_codtipo;datatype:int,name:marca_codmarca;datatype:int" />
+	<infoitem key="UD_assassins" value="name:codproduto;datatype:int,name:nomep;datatype:string,name:precou;datatype:real,name:stock;datatype:int,name:descricao;datatype:string,name:imagem;datatype:string,name:tipo_codtipo;datatype:int,name:marca_codmarca;datatype:int" />
+</info>

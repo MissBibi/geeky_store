@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_altproduto" value="name:codproduto;datatype:int,name:nomep;datatype:string,name:precou;datatype:real,name:stock;datatype:int,name:descricao;datatype:string,name:imagem;datatype:string,name:tipo_codtipo;datatype:int,name:marca_codmarca;datatype:int,name:status;datatype:string" />
+	<infoitem key="UD_tipo" value="name:codtipo;datatype:int,name:tipo;datatype:string" />
+	<infoitem key="UD_marca" value="name:codmarca;datatype:int,name:marca;datatype:string" />
+	<infoitem key="UD_produto" value="name:codproduto;datatype:int,name:nomep;datatype:string,name:precou;datatype:real,name:stock;datatype:int,name:descricao;datatype:string,name:imagem;datatype:string,name:tipo_codtipo;datatype:int,name:marca_codmarca;datatype:int,name:status;datatype:string,name:codmarca;datatype:int,name:marca;datatype:string,name:codtipo;datatype:int,name:tipo;datatype:string" />
+	<infoitem key="UD_produtos" value="name:codproduto;datatype:int,name:nomep;datatype:string,name:precou;datatype:real,name:stock;datatype:int,name:descricao;datatype:string,name:imagem;datatype:string,name:status;datatype:string,name:tipo_codtipo;datatype:int,name:marca_codmarca;datatype:int,name:codmarca;datatype:int,name:marca;datatype:string,name:codtipo;datatype:int,name:tipo;datatype:string" />
+	<infoitem key="UD_alterar" value="name:email;datatype:string,name:nome;datatype:string,name:morada;datatype:string,name:codpostal;datatype:int,name:cospostal2;datatype:int,name:telefone;datatype:int,name:sexo;datatype:string,name:datanasc;datatype:date,name:localidade;datatype:string,name:password;datatype:string,name:nif;datatype:int" />
+	<infoitem key="UD_marcas" value="name:codmarca;datatype:int,name:marca;datatype:string" />
+	<infoitem key="UD_tipos" value="name:codtipo;datatype:int,name:tipo;datatype:string" />
+	<infoitem key="UD_Produto" value="name:codproduto;datatype:int,name:nomep;datatype:string,name:precou;datatype:real,name:stock;datatype:int,name:descricao;datatype:string,name:imagem;datatype:string,name:status;datatype:string,name:tipo_codtipo;datatype:int,name:marca_codmarca;datatype:int,name:codmarca;datatype:int,name:marca;datatype:string,name:codtipo;datatype:int,name:tipo;datatype:string" />
+</info>
